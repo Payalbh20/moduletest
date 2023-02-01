@@ -1,0 +1,26 @@
+.colm {
+  border: 3px solid rgb(0, 225, 255);
+  border-radius: 15px;
+
+}
+
+img {
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+.error {
+  color: red;
+}
+
+.blue {
+  color: rgb(0, 132, 255);
+}
+.selected {
+  border: 5px solid rgb(0, 195, 255);
+}
+button{
+  width: 220px;
+}
